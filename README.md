@@ -8,7 +8,7 @@ https://competition.nowcoder.com/exam/199/376
 
 ## 参考资料
 
-mdoel weight:
+model weight:
 
 https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-base
 
